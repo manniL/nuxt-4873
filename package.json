@@ -1,0 +1,19 @@
+{
+  "name": "nuxt-4873",
+  "version": "1.0.0",
+  "description": "https://github.com/nuxt/nuxt.js/issues/4873",
+  "author": "Atinux",
+  "private": true,
+  "scripts": {
+    "dev": "nuxt",
+    "build": "nuxt build",
+    "start": "nuxt start",
+    "generate": "nuxt generate",
+    "post-update": "yarn upgrade --latest"
+  },
+  "dependencies": {
+    "@nuxtjs/axios": "^5.0.0",
+    "nuxt": "^2.4.0"
+  },
+  "keywords": []
+}
